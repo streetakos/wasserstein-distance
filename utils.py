@@ -3,6 +3,10 @@ from time import time
 import numpy as np
 from scipy.linalg import sqrtm
 
+
+'''
+As ground distances between 2 kernels we use Frechet measure
+'''
 def frechet(m1, s1, m2, s2):
     '''
     Computes Frechet distance
