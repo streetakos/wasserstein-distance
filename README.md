@@ -1,5 +1,5 @@
-A python implementatation of the Wasserstein distance between two finite mixture models.
-this function was used to generate the figures from the paper:
+A python implementatation of the Wasserstein distance (also known as earth mover's distance) between two finite mixture models.
+This function was used to generate the figures from the paper:
 
 > **WIND: WASSERSTEIN INCEPTION DISTANCE FOR EVALUATING GENERATIVE ADVERSARIAL NETWORK PERFORMANCE**
 
